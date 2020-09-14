@@ -19,3 +19,4 @@ This project shows ...
 - **Created a color palette and used all the colours**: find the screenshots in my repo
 - **Used Poiret One font from Google Fonts**
 
+**note: I did not realize that I did not pull request and so this is why it is late. I'll keep trying to figure out this GitHub thing thank you!!!
